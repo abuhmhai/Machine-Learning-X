@@ -1,4 +1,4 @@
-## README: Fake News Detection Model
+## Fake News Detection Model
 
 ### Project Overview
 This project aims to build and compare the performance of various machine learning models to detect fake news. We employ traditional machine learning algorithms (Decision Tree, AdaBoost, Random Forest, Logistic Regression) as well as a neural network model. The models are trained and evaluated on a dataset containing labeled fake and real news articles.
