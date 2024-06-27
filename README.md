@@ -4,15 +4,13 @@
 This project aims to build and compare the performance of various machine learning models to detect fake news. We employ traditional machine learning algorithms (Decision Tree, AdaBoost, Random Forest, Logistic Regression) as well as a neural network model. The models are trained and evaluated on a dataset containing labeled fake and real news articles.
 
 ### Table of Contents
-1. [Installation](#installation)
-2. [Dataset](#dataset)
-3. [Preprocessing](#preprocessing)
-4. [Models](#models)
-5. [Evaluation](#evaluation)
-6. [Usage](#usage)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
+1. [Dataset](#dataset)
+2. [Preprocessing](#preprocessing)
+3. [Models](#models)
+4. [Evaluation](#evaluation)
+5. [Results](#results)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 
 ### Dataset
